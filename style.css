@@ -22,13 +22,13 @@ body{
 }
 
 .carre{
-	margin-top: 12%;
-	margin-left: 19%;
+	margin-top: 11%;
+	margin-left: 18%;
 	position: absolute;
 	background-color: white;
 	z-index: 2;
 	width: 64%;
-	height: 54%;
+	height: 55%;
 }
 
 .container{
@@ -54,17 +54,17 @@ h1{
 
 h2{
 	font-weight: bold;
-	margin-top: 3%;
+	margin-top: 2.5%;
 	color: black;
 	font-family: 'Open Sans', sans-serif;
 	color: #222222;
-	font-size: 13.4px;
+	font-size: 13.6px;
 
 }
 
 h3{
 	margin-top: 2%;
-	font-size: 13px;
+	font-size: 14px;
 	color: #999999;
 	font-family: 'Open Sans', sans-serif;
 	letter-spacing: 1px;
@@ -100,6 +100,10 @@ a:visited /* propriétés des liens déjà visités */
 .socialmedia, a:link {
 	text-decoration: none;
 	color: black
+}
+
+i:hover{
+	color: #C9C4C4;
 }
 
 .resume{
